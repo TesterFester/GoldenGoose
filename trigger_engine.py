@@ -1,1 +1,0 @@
-# Notebook-first package. Core logic lives in the notebook.\n
