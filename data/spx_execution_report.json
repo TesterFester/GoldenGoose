@@ -1,0 +1,11 @@
+{
+  "execution_model": {
+    "structural_bias": "WAIT",
+    "execution_state": "Wait"
+  },
+  "trigger_rules": {},
+  "actionable_intelligence": [
+    "No sample report provided."
+  ],
+  "run_date_time": ""
+}
